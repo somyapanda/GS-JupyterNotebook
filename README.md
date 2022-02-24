@@ -1,1 +1,1 @@
-# GS-JupyterNotebook
+# Getting Started With Jupyter Notebook
